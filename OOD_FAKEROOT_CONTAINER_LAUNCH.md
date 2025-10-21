@@ -652,3 +652,4 @@ The OOD fakeroot container launch mechanism provides:
 
 This approach balances user flexibility (install packages on-demand) with system security (no persistent root access) and operational simplicity (no per-user container images). It enables rapid prototyping and testing while encouraging formalization of requirements into proper container definitions for production use.
 
+
